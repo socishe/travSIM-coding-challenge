@@ -1,5 +1,3 @@
-Sihle 80
-Yolanda 75
-Alex 60
-Bob 48
-Natasha 53
+Sihle 56
+Longwe 50
+Zweni 70
