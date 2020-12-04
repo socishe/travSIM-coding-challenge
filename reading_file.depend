@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1606973971 source:c:\users\sihle\documents\codeblocks\reading_file\main.cpp
+	<iostream>
+	<cstdio>
+	<fstream>
+
